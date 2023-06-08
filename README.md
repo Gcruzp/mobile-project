@@ -22,11 +22,11 @@ Após a instalação do BarberShop Mobile App, siga os seguintes passos para age
 
 - Abra o aplicativo e faça login com suas credenciais de conta.
 
+- Escolha o horário disponível que se encaixa em sua agenda.
+- 
 - Escolha o serviço que deseja agendar (corte de cabelo ou barba).
 
 - Selecione o barbeiro de sua preferência.
-
-- Escolha o horário disponível que se encaixa em sua agenda.
 
 - Selecione o método de pagamento preferido e faça o pagamento diretamente pelo aplicativo.
 
@@ -43,8 +43,6 @@ Após a instalação do BarberShop Mobile App, siga os seguintes passos para age
 - Escolha de barbeiro.
 
 - Agendamento de horário disponível.
-
-- Pagamento seguro diretamente pelo aplicativo.
 
 - Confirmação de agendamento.
 
